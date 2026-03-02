@@ -16,4 +16,4 @@ I build data pipelines, scenario engines, and automation systems. The kind of ba
 
 Full case studies, architectural breakdowns, and engineering deep-dives at **[kingsleyonoh.com](https://kingsleyonoh.com)**.
 
-[LinkedIn](https://linkedin.com/in/kingsley-onoh/) · kingsley@klevar.ai
+[LinkedIn](https://linkedin.com/in/kingsley-onoh/)
