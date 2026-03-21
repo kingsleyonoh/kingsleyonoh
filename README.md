@@ -6,7 +6,9 @@ I build data pipelines, scenario engines, and automation systems. The kind of ba
 
 ---
 
-### Open Source
+### Featured Work
+
+**[Multi-Agent RAG Platform](https://github.com/kingsleyonoh/Multi-Agent-RAG-Platform)** — Production-grade retrieval-augmented generation with knowledge graph enrichment, multi-model routing, and cost-controlled tool-calling agents. 447 tests, 95% coverage. Built with Python, FastAPI, pgvector, Neo4j, and Redis.
 
 **[Transaction Reconciliation Engine](https://github.com/kingsleyonoh/Transaction-Reconciliation-Engine)** — Automated financial transaction matching across payment gateways and bank feeds. 4-rule scoring cascade with fuzzy matching, processes 4,000 transactions in under 5 seconds. Built with Go, PostgreSQL, and Redis.
 
